@@ -23,7 +23,7 @@ main-navbar ul{
 }
 
 #main-navbar ul li{
-   display: block;
+    display: block;
     right: 50%;
     position: relative;
     float: left;
