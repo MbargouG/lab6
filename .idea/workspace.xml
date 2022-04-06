@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="343a4101-fa51-44c4-b129-19f1739688b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27R1tRhSMxJlOSHcY4nOylhk8VO" />
   <component name="ProjectLevelVcsManager">
@@ -48,7 +52,7 @@
       <updated>1649268298927</updated>
       <workItem from="1649268299994" duration="55000" />
       <workItem from="1649268357618" duration="951000" />
-      <workItem from="1649270920707" duration="1527000" />
+      <workItem from="1649270920707" duration="4035000" />
     </task>
     <servers />
   </component>
